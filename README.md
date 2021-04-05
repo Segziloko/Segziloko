@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Software Developemnt
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter/Dart related projects
-- 📫 You can reach on Twitter and Instagram @segziloko
+- 📫 You can reach me on Twitter and Instagram @segziloko
 
 <!---
 Segziloko/Segziloko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
